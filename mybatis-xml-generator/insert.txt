@@ -1,0 +1,6 @@
+#{id},
+#{index_key},
+#{value},
+#{gmt_create},
+#{gmt_modified},
+,

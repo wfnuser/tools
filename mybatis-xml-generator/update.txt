@@ -1,0 +1,5 @@
+id = #{id},
+index_key = #{index_key},
+value = #{value},
+gmt_create = #{gmt_create},
+gmt_modified = #{gmt_modified},
